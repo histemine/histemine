@@ -1,6 +1,6 @@
 ```javascript
 var profile = {
-  name: "Your Name",
+  name: "dill",
   age: 14,
   languages: ["JavaScript", "HTML", "CSS"],
   occupancy: "High School",
